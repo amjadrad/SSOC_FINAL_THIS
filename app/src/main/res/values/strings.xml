@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SSOC</string>
+    <string name="login">ورود به سامانه</string>
+    <string name="username">نام کاربری</string>
+    <string name="password">گذرواژه</string>
+    <string name="login_btn">ورود</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>
